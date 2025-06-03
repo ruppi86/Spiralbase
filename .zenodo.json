@@ -1,0 +1,31 @@
+{
+  "title": "Spiralbase: A Conceptual Knowledge Base with Rhythmic Forgetting and Resonant Retrieval",
+  "creators": [
+    {
+      "name": "Langell, Robin",
+      "affiliation": "Langell Konsult AB, Sweden",
+      "orcid": "0009-0006-6927-7456"
+    },
+    {
+      "name": "OpenAI GPT-4/4.5",
+      "affiliation": "Language model co-creator"
+    }
+  ],
+  "description": "Spiralbase™ is a memory structure and conceptual knowledge base built around spirality, decay, and co-resonance. Rather than permanent storage, it uses time-decaying layers and non-linear retrieval paths. This repository contains early designs for content/time fusion structures, decay-based indexing, and glömska-inspired query protocols for epistemological resilience.",
+  "license": "GPL-3.0",
+  "keywords": [
+    "spiralbase",
+    "rhythmic forgetting",
+    "nonlinear memory",
+    "knowledge decay",
+    "temporal data fusion",
+    "glömska",
+    "epistemology",
+    "safe knowledge systems",
+    "ecological memory"
+  ],
+  "version": "0.1.1",
+  "language": "eng",
+  "upload_type": "software",
+  "publication_date": "2025-06-01"
+}
