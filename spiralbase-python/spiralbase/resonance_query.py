@@ -4,6 +4,7 @@
 Resonance-based retrieval for Spiralbase™.
 Finds entries matching a resonance pattern based on partial overlap or echo.
 """
+from decay_layer import memory
 
 def resonance_query(pattern):
     results = []
