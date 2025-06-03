@@ -1,14 +1,64 @@
 # Spiralbase™
 
-Hello!
+**A temporal knowledge base built on forgetting, resonance, and spiral retrieval.**
 
-Please look at these repositories for more information:
+Spiralbase™ is not a traditional database. It is a rhythmic memory structure designed to remember what resonates – and forget what fades. Inspired by biological decay, spiral time, and distributed intelligence, Spiralbase is part of the larger Mychainos™ framework alongside Spirida™.
 
-- https://github.com/mychainos/mychainos
-- https://github.com/mychainos/spirida
+---
 
-Best regards,
-Robin Langell
+## ✨ Core Concepts
+
+* **Forgetfulness:** Data degrades unless recalled or reinforced. Memory is a living substrate.
+* **Resonance-Based Retrieval:** Queries activate memory patterns that match temporally and semantically.
+* **Spiral Time Model:** Past and present fold into each other – retrieval is circular, not linear.
+* **Biocomputation Interface:** Future versions may run on living substrates (e.g. fungal, DNA, sound).
+
+---
+
+## 📁 Repository Structure
+
+* `README.md` – project overview and concept
+* `PDF/spirida-spiralbase-v0.6.pdf` – shared conceptual foundation with Spirida
+* `appendix/` – licensing documents (Creative Commons, GPLv3, CERN OHL v2, OpenMTA)
+* `spiralbase-python/prototypes/` *(planned)* – experimental Python or YAML models with decay + query examples
+
+---
+
+## 🔁 What Spiralbase Is (and Is Not)
+
+* ✅ A temporal, decaying, spiral-shaped memory field
+* ✅ An interface for regenerative interaction with knowledge
+* ✅ A prototype for living or soft technologies
+* ❌ A permanent key-value store
+* ❌ A static database meant for exact replication
+
+---
+
+## 🔬 Experimental Directions (Planned)
+
+* `decay_layer.py` – Simulate time-based memory degradation
+* `resonance_query.py` – Match queries to fading entries by echo strength
+* `spiral_index.yaml` – Represent content as patterns, not IDs
+
+---
+
+## 📜 Licensing
+
+Spiralbase™ is released under a layered open license model:
+
+* Conceptual layer: CC BY-SA 4.0
+* Software prototypes: GPLv3
+* Hardware (future): CERN OHL v2
+* Biological interfaces: OpenMTA
+
+See `PDF/spirida-spiralbase-v0.6.pdf` and Appendix A for details.
+
+---
+
+## 🌱 Quote
+
+*“We do not need eternal databases. We need systems that remember what matters, and forget what doesn’t – until the world returns to ask again.”*
+
 
 ## License
 
