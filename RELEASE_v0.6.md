@@ -35,3 +35,9 @@ Spiralbase v0.6 is a *threshold*, not a destination. It whispers:
 *"I do not remember everything — but what I do remember still sings."*
 
 🌱
+
+---
+
+### ⚖️ Licensing
+
+Spiralbase™ is a registered trademark. This release and accompanying files are published under the **Mychainos Open License structure** (see Appendix A: Licensing and Stewardship in Mychainos_conceptual_architecture.md). You are free to remix, compost, and prototype with care — as long as you honor the cycle of remembering and forgetting.
