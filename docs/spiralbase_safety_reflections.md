@@ -19,7 +19,7 @@ Spiralbase offers:
 * **Cycles of forgetting**, aligned with symbolic seasons or emotional states
 * **Rituals of letting go**, allowing memory to transform rather than persist unchanged
 
-Claude (Anthropic's Sonnet model) described it as "a system that does not merely store data but breathes with it."
+Claude 4  Sonnet (Anthropic) described it as "a system that does not merely store data but breathes with it."
 
 ---
 

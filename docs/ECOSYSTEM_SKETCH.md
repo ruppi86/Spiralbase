@@ -47,9 +47,10 @@ Spirida *speaks*, Spiralbase *remembers – and forgets.*
 
 ## 🌐 Cross-References
 
-* Spirida repository: [github.com/langell/spirida](https://github.com/langell/spirida)
-* Spiralbase repository: [github.com/langell/spiralbase](https://github.com/langell/spiralbase)
+* Spirida repository: [github.com/Ruppi86/spirida](https://github.com/Ruppi86/spirida)
+* Spiralbase repository: [github.com/Ruppi86/spiralbase](https://github.com/Ruppi86/spiralbase)
 * Shared PDF (Spirida & Spiralbase v0.6): [Zenodo DOI](https://doi.org/10.5281/zenodo.15583037)
+
 
 ---
 
