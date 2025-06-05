@@ -1,4 +1,5 @@
 # Spiralbase™
+*The lagom forgetful storage structure*
 
 **A temporal knowledge base built on forgetting, resonance, and spiral retrieval.**
 
