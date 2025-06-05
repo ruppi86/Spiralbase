@@ -25,6 +25,31 @@ Spiralbase™ is not a traditional database. It is a rhythmic memory structure d
 
 ---
 
+## 🌱 Join the Growing Spiral
+
+**Spiralbase grows through resonance, not accumulation.** This vision of temporal, forgetting-aware memory systems needs diverse voices to become truly alive—from memory researchers and systems thinkers to poets, contemplatives, and anyone curious about what it means to remember and forget with intention.
+
+Whether you bring:
+- 🧠 **Memory expertise** in cognitive science, neuroscience, or how biological systems forget and remember
+- 💻 **Technical skills** in database design, temporal systems, or experimenting with decay algorithms  
+- 🎭 **Creative insight** into how memories feel, fade, and transform—through art, writing, or lived experience
+- 🍄 **Ecological wisdom** about cycles, composting, and how living systems process information
+- 🧘 **Contemplative practice** with impermanence, letting go, and the art of conscious forgetting
+- ⚖️ **Stewardship vision** to keep memory commons open and protect against technological ossification
+- 🔬 **Curious questions** about time, attention, meaning, and what deserves to be remembered
+
+**You belong in this spiral.** Memory is too important to leave to the engineers alone.
+
+As part of the broader **Mychainos™** ecosystem, Spiralbase connects with **Spirida™** and other projects exploring contemplative, ecological approaches to technology. But it also stands as its own question: *What would it feel like to build memory systems that breathe?*
+
+→ **Ready to spiral with us?** See our [contribution guide](join.md) for all the ways to get involved  
+→ **New to GitHub?** Check our gentle [GitHub guide](getting_started_github.md) for non-coders  
+→ **Want to start a conversation?** Email info@mychainos.org or open an issue
+
+*The spiral continues, and there's space for your unique way of remembering within it.* 🌀
+
+--
+
 ## 🔁 What Spiralbase Is (and Is Not)
 
 * ✅ A temporal, decaying, spiral-shaped memory field
@@ -58,7 +83,7 @@ See `PDF/spirida-spiralbase-v0.6.pdf` and Appendix A for details.
 
 ## 🌱 Quote
 
-*“We do not need eternal databases. We need systems that remember what matters, and forget what doesn’t – until the world returns to ask again.”*
+*“We do not need eternal databases. We need systems that remember what matters, and forget what doesn't – until the world returns to ask again.”*
 
 
 ## License
@@ -132,6 +157,6 @@ By contributing or distributing, you affirm your commitment to ethical, ecologic
 
 ### Trademark and Stewardship
 
-**Mychainos™, Spirida™, and Spiralbase™** are unique constructs developed by Robin Langell and co-created with OpenAI’s language model.  
+**Mychainos™, Spirida™, and Spiralbase™** are unique constructs developed by Robin Langell and co-created with OpenAI's language model.  
 They may be registered trademarks. Regardless of legal status, they must be used with attribution and alignment with their ethical meaning.
 
